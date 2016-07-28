@@ -2,6 +2,7 @@
 - `npm i`
 - Make sure to have mongod running, and `grunt-cli` installed globally.
 - Update app name
+- `grunt`
 - `npm start`
 
 ###WHY?
